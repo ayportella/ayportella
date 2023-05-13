@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on becoming a data analyst!
+- 🌱 I’m currently learning python, sql, EDA, dataviz and cloud computing.
+- 💬 Ask me about geology and data applications! I would be happy to colaborate with ideas and new projects.
+- 📫 How to reach me: https://www.linkedin.com/in/andressa-yumi-portella/
+- ⚡ Fun fact: I am a geologist but love data! 
 <!--
 **ayportella/ayportella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
