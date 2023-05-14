@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on becoming a data analyst!
 - 🌱 I’m currently learning python, sql, EDA, dataviz and cloud computing.
 - 💬 Ask me about geology and data applications! I would be happy to colaborate with ideas and new projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andressa-yumi-portella/) [email](ayportella@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andressa-yumi-portella/) 
 - ⚡ Fun facts: I am a geologist but love data! Also I earned a medal in a maths olympics when I was 16! 
 
 These are some of the projects I've been working on and documenting my process of learning!
