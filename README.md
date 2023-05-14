@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andressa-yumi-portella/) 
 - ⚡ Fun facts: I am a geologist but love data! Also I earned a medal in a maths olympics when I was 16! 
 
-##These are some of the projects I've been working on and documenting my process of learning!
+## These are some of the projects I've been working on and documenting my process of learning!
 
 ### Dataview projects
 [Dataview of Formula 1 races between 1950 and 2019 in Looker Data Studio](https://github.com/ayportella/dataview/tree/main/01_looker_formula1)
