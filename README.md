@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python, sql, EDA, dataviz and cloud computing.
 - 💬 Ask me about geology and data applications! I would be happy to colaborate with ideas and new projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andressa-yumi-portella/) 
-- ⚡ Fun facts: I am a geologist but love data! Also I earned a medal in a maths olympics when I was 16! 
+
 
 ### These are some projects I've been working on:
 
@@ -16,7 +16,7 @@
 
 
 ### Python projects
-[Exploratory Analysis of logistics data](https://github.com/ayportella/02_data_analytics/blob/main/17_exploratory_data_analysis_project.ipynb)
+[Exploratory analysis of logistics data](https://github.com/ayportella/02_data_analytics/blob/main/17_exploratory_data_analysis_project.ipynb)
 
 <!--
 **ayportella/ayportella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
