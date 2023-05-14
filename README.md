@@ -11,7 +11,8 @@ These are some of the projects I've been working on and documenting my process o
 
 
 ## SQL projects
-[https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb] 
+[oi](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)
+
 
 ## Python projects
 <!--
