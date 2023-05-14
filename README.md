@@ -7,8 +7,8 @@
 
 These are some of the projects I've been working on and documenting my process of learning!
 
-## Dataviz projects
-
+## Dataview projects
+[Dataview of Formula 1 races between 1950 and 2019 in Looker Data Studio](https://github.com/ayportella/dataview/tree/main/01_looker_formula1)
 
 ## SQL projects
 [Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)
