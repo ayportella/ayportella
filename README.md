@@ -11,6 +11,8 @@
 ### Dataviz projects
 [Dataviz of flights data between 1949 and 1960](https://github.com/ayportella/dataviz/tree/main/01_looker_flights)
 
+[Dataviz of covid data in 2021](https://github.com/ayportella/projects_dataviz/tree/main/02_looker_covid)
+
 [Dataviz of Formula 1 races between 1950 and 2019 in Looker Data Studio](https://github.com/ayportella/dataview/tree/main/01_looker_formula1)
 
 ### SQL projects
