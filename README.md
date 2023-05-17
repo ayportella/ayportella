@@ -13,7 +13,7 @@
 
 [Dataviz of covid data in 2021 in Looker](https://github.com/ayportella/projects_dataviz/tree/main/02_looker_covid)
 
-[Dataviz of Formula 1 races between 1950 and 2019 in Looker](https://github.com/ayportella/dataview/tree/main/01_looker_formula1)
+[Dataviz of Formula 1 races between 1950 and 2019 in Looker](https://github.com/ayportella/projects_dataviz/tree/main/03_looker_formula1)
 
 ### SQL projects
 [Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)
