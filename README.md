@@ -1,7 +1,7 @@
 # Hi there 👋 Here is Andressa!
 
 - 🔭 I’m currently working on becoming a data analyst!
-- 🌱 I’m currently learning python, sql, EDA, dataviz and cloud computing.
+- 🌱 I’m currently learning python, sql, EDA, dataviz, cloud computing, machine learning and business intelligence.
 - 💬 Ask me about geology and data applications! I would be happy to colaborate with ideas and new projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andressa-yumi-portella/) or ayportella@gmail.com
 
