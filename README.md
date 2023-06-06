@@ -22,7 +22,7 @@
 ### Python projects
 [Exploratory analysis of logistics data](https://github.com/ayportella/02_data_analytics/blob/main/17_exploratory_data_analysis_project.ipynb)
 
-### Machine Learning prjects
+### Machine Learning projects
 [Decision Tree with Geochemistry Data](https://github.com/ayportella/projects_machine_learning/blob/main/01_projeto_extra_machine_learning_geochemistry.ipynb)
 
 ![](https://komarev.com/ghpvc/?username=ayportella)
