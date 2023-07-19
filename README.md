@@ -25,7 +25,7 @@
 ### Machine Learning Projects
 [Decision Tree with Geochemistry Data](https://github.com/ayportella/projects_machine_learning/blob/main/01_projeto_extra_machine_learning_geochemistry_v2.ipynb)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
 ![](https://komarev.com/ghpvc/?username=ayportella)
 <!--
