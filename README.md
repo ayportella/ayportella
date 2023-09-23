@@ -17,6 +17,7 @@
 
 ### SQL Projects
 [Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)
+
 [Geodatabase of Brazilian Public Wells](https://github.com/ayportella/learning_more_about_sql/blob/main/20_projeto_banco_de_dados_geo_pocos.ipynb)
 
 
