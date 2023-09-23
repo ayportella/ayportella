@@ -16,7 +16,7 @@
 [Dataviz of Formula 1 races between 1950 and 2019 in Looker](https://github.com/ayportella/projects_dataviz/tree/main/03_looker_formula1)
 
 ### SQL Projects
-[Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)
+[Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)</br>
 
 [Geodatabase of Brazilian Public Wells](https://github.com/ayportella/learning_more_about_sql/blob/main/20_projeto_banco_de_dados_geo_pocos.ipynb)
 
