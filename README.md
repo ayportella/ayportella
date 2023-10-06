@@ -26,6 +26,8 @@
 
 [Active Mining Processes in the Minas Gerais State with GeoPandas](https://github.com/ayportella/geopandas/blob/main/01_processos_minerarios_geopandas.ipynb)
 
+[Fires in the Amazonas State with GeoPandas and Folium Libraries](https://github.com/ayportella/geopandas/blob/main/02_queimadas_geopandas_folium.ipynb)
+
 ### Machine Learning Projects
 [Decision Tree with Geochemistry Data](https://github.com/ayportella/projects_machine_learning/blob/main/01_projeto_extra_machine_learning_geochemistry_v2.ipynb)
 
