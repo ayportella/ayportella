@@ -31,8 +31,13 @@
 ### Machine Learning Projects
 [Decision Tree with Geochemistry Data](https://github.com/ayportella/projects_machine_learning/blob/main/01_projeto_extra_machine_learning_geochemistry_v2.ipynb)
 
+### Data Engineering Projects
+[Pipeline from Telegram Chatbot to AWS with sql analysis](https://github.com/ayportella/curso_8_cloud/blob/main/modulo_44_cloud_native_data__pipeline.ipynb)
+
 ![](https://komarev.com/ghpvc/?username=ayportella)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayportella&layout=compact)
+
+
 
 
