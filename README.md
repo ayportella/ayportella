@@ -15,6 +15,8 @@
 
 [Dataviz of Formula 1 races between 1950 and 2019 in Looker](https://github.com/ayportella/projects_dataviz/tree/main/03_looker_formula1)
 
+[Dataviz of a Crib Product Project in Power BI](https://github.com/ayportella/projects_dataviz/blob/main/04_crib_project_power_bi/README.md)
+
 ### SQL Projects
 [Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)</br>
 
