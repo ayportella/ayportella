@@ -20,6 +20,10 @@
 
 [Geodatabase of Brazilian Public Wells](https://github.com/ayportella/learning_more_about_sql/blob/main/20_projeto_banco_de_dados_geo_pocos.ipynb)
 
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/N9OGzj6Y1XA)
+
+https://youtu.be/N9OGzj6Y1XA
+
 
 ### Python Projects
 [Exploratory analysis of logistics data](https://github.com/ayportella/02_data_analytics/blob/main/17_exploratory_data_analysis_project.ipynb)
