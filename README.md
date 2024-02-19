@@ -8,7 +8,7 @@
 
 ### These are some projects I've been working on:
 
-### Dataviz Projects
+### Dataviz
 [Dataviz of flights data between 1949 and 1960 in Looker](https://github.com/ayportella/dataviz/tree/main/01_looker_flights)
 
 [Dataviz of covid data in 2021 in Looker](https://github.com/ayportella/projects_dataviz/tree/main/02_looker_covid)
@@ -17,17 +17,13 @@
 
 [Dataviz of a Crib Product Project in Power BI](https://github.com/ayportella/projects_dataviz/blob/main/04_crib_project_power_bi/README.md)
 
-### SQL Projects
+### SQL
 [Exploratory analysis of credit data](https://github.com/ayportella/05-sql/blob/main/35_credit_data_exploratory_analysis_project.ipynb/)</br>
 
 [Geodatabase of Brazilian Public Wells](https://github.com/ayportella/learning_more_about_sql/blob/main/20_projeto_banco_de_dados_geo_pocos.ipynb)
 
 
-
-
-
-
-### Python Projects
+### Python
 [Exploratory analysis of logistics data](https://github.com/ayportella/02_data_analytics/blob/main/17_exploratory_data_analysis_project.ipynb)
 
 [Active Mining Processes in the Minas Gerais State with GeoPandas](https://github.com/ayportella/geopandas/blob/main/01_processos_minerarios_geopandas.ipynb)
@@ -36,7 +32,7 @@
 
 [Bar Chart Racing with Brazilian Wells](https://github.com/ayportella/python/blob/main/bar_chart_pocos.ipynb)
 
-### Machine Learning Projects
+### Machine Learning
 [Decision Tree with Geochemistry Data](https://github.com/ayportella/projects_machine_learning/blob/main/01_projeto_extra_machine_learning_geochemistry_v2.ipynb)
 
 ### Data Engineering Projects
